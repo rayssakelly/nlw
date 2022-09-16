@@ -20,7 +20,7 @@
 
 <br>
 
-### :speaker: Contatos
+## :speaker: Contato
 
 <p>:mailbox: arayssacontato@gmail.com </p>
 <p>:woman_office_worker: https://www.linkedin.com/in/rayssa-kelly-1b6b13207/ </p>
